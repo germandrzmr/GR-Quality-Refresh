@@ -5,6 +5,7 @@
 
 # Archivos internos de Netlify CLI
 .netlify/
+.agents/
 
 # Dependencias y archivos del sistema
 node_modules/
