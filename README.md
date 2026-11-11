@@ -1,8 +1,18 @@
+<p align="center">
+  <img src="docs/img/banner.jpg" alt="GR Quality Refresh — Consultoría tecnológica" width="100%">
+</p>
+
 # GR Quality Refresh · Brochure web
 
 Brochure interactivo de **GR Quality Refresh**, firma de consultoría tecnológica especializada en diseño, desarrollo, automatización y modernización de soluciones digitales.
 
 🔗 **Sitio en vivo:** https://grqualityrefresh.netlify.app
+
+<p align="center">
+  <img src="docs/img/captura-sitio.jpg" alt="Portada del brochure en escritorio" width="74%">
+  &nbsp;
+  <img src="docs/img/captura-movil.jpg" alt="Portada del brochure en celular" width="21%">
+</p>
 
 ## Qué incluye
 
@@ -34,7 +44,8 @@ Brochure interactivo de **GR Quality Refresh**, firma de consultoría tecnológi
 ├── scripts/
 │   └── sync-schema.mjs         Copia las reglas de validación dentro de public/index.html
 ├── docs/
-│   └── ACTIVACION.md           Guía paso a paso para publicar y activar el formulario
+│   ├── ACTIVACION.md           Guía paso a paso para publicar y activar el formulario
+│   └── img/                    Banner y capturas usadas en este README
 ├── netlify.toml                Configuración de Netlify
 └── .env.example                Variables de entorno necesarias
 ```
