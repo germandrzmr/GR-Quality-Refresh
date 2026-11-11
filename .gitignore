@@ -1,0 +1,13 @@
+# Claves y variables locales (nunca subirlas)
+.env
+.env.*
+!.env.example
+
+# Archivos internos de Netlify CLI
+.netlify/
+
+# Dependencias y archivos del sistema
+node_modules/
+Thumbs.db
+desktop.ini
+.DS_Store
