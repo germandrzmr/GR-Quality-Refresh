@@ -40,24 +40,10 @@ Tipografías: **Oswald** (títulos), **Manrope** (textos) y **JetBrains Mono** (
 
 ## Equipo
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="public/equipo-german-v3.jpg" alt="German Rodriguez" width="160"><br>
-      <strong>German Rodriguez</strong><br>
-      CEO · Director general<br>
-      <sub>Ingeniería de requerimientos · Diseño UX/UI · QA y validación · Modernización de sistemas</sub><br>
-      <a href="https://www.linkedin.com/in/germanrodriguez-gr">LinkedIn</a>
-    </td>
-    <td align="center" width="50%">
-      <img src="public/equipo-juan-jose.jpg" alt="Juan José Ballesteros" width="160"><br>
-      <strong>Juan José Ballesteros</strong><br>
-      CTO · Director de tecnología<br>
-      <sub>IA, automatización y BI · Desarrollo de software · Bases de datos · Arquitectura de software</sub><br>
-      <a href="https://www.linkedin.com/in/juan-jos%C3%A9-ballesteros-suarez-924a87207/">LinkedIn</a>
-    </td>
-  </tr>
-</table>
+| Nombre | Cargo | Áreas | Perfil |
+|---|---|---|---|
+| **German Rodriguez** | CEO · Director general | Ingeniería de requerimientos, diseño UX/UI, QA y validación, modernización de sistemas | [LinkedIn](https://www.linkedin.com/in/germanrodriguez-gr) |
+| **Juan José Ballesteros** | CTO · Director de tecnología | IA, automatización y BI, desarrollo de software, bases de datos, arquitectura de software | [LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-ballesteros-suarez-924a87207/) |
 
 Cada uno lidera sus áreas, pero todos los proyectos se desarrollan en equipo, de los requerimientos a la entrega.
 
