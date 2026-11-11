@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/img/banner.jpg" alt="GR Quality Refresh — Consultoría tecnológica" width="100%">
+  <img src="docs/img/banner.jpg" alt="GR Quality Refresh — Consultoría tecnológica en diseño, desarrollo, automatización y modernización de soluciones digitales" width="100%">
 </p>
 
 # GR Quality Refresh · Brochure web
@@ -23,6 +23,43 @@ Brochure interactivo de **GR Quality Refresh**, firma de consultoría tecnológi
 - **Formulario de contacto** que envía cada solicitud por correo con [Resend](https://resend.com), a través de una función de servidor en Netlify.
 - Diseño adaptable a celular, accesible con teclado y sin dependencias externas en el navegador.
 
+## Identidad visual
+
+<p align="center">
+  <img src="docs/img/logo.png" alt="Logo de GR Quality Refresh" width="240">
+</p>
+
+| Color | Uso | Hex |
+|---|---|---|
+| Verde menta | Color principal de la marca, acentos y botones | `#74DBA8` |
+| Verde profundo | Franjas y estados secundarios | `#4C8F74` |
+| Pizarra | Degradados y superficies | `#434957` |
+| Tinta | Fondo principal | `#14171D` |
+
+Tipografías: **Oswald** (títulos), **Manrope** (textos) y **JetBrains Mono** (etiquetas).
+
+## Equipo
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="public/equipo-german-v3.jpg" alt="German Rodriguez" width="160"><br>
+      <strong>German Rodriguez</strong><br>
+      CEO · Director general<br>
+      <sub>Ingeniería de requerimientos · Diseño UX/UI · QA y validación · Modernización de sistemas</sub><br>
+      <a href="https://www.linkedin.com/in/germanrodriguez-gr">LinkedIn</a>
+    </td>
+    <td align="center" width="50%">
+      <img src="public/equipo-juan-jose.jpg" alt="Juan José Ballesteros" width="160"><br>
+      <strong>Juan José Ballesteros</strong><br>
+      CTO · Director de tecnología<br>
+      <sub>IA, automatización y BI · Desarrollo de software · Bases de datos · Arquitectura de software</sub>
+    </td>
+  </tr>
+</table>
+
+Cada uno lidera sus áreas, pero todos los proyectos se desarrollan en equipo, de los requerimientos a la entrega.
+
 ## Tecnologías
 
 | Parte | Tecnología |
@@ -45,7 +82,7 @@ Brochure interactivo de **GR Quality Refresh**, firma de consultoría tecnológi
 │   └── sync-schema.mjs         Copia las reglas de validación dentro de public/index.html
 ├── docs/
 │   ├── ACTIVACION.md           Guía paso a paso para publicar y activar el formulario
-│   └── img/                    Banner y capturas usadas en este README
+│   └── img/                    Banner, vista previa, logo y capturas usadas en este README
 ├── netlify.toml                Configuración de Netlify
 └── .env.example                Variables de entorno necesarias
 ```
