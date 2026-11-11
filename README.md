@@ -53,7 +53,8 @@ Tipografías: **Oswald** (títulos), **Manrope** (textos) y **JetBrains Mono** (
       <img src="public/equipo-juan-jose.jpg" alt="Juan José Ballesteros" width="160"><br>
       <strong>Juan José Ballesteros</strong><br>
       CTO · Director de tecnología<br>
-      <sub>IA, automatización y BI · Desarrollo de software · Bases de datos · Arquitectura de software</sub>
+      <sub>IA, automatización y BI · Desarrollo de software · Bases de datos · Arquitectura de software</sub><br>
+      <a href="https://www.linkedin.com/in/juan-jos%C3%A9-ballesteros-suarez-924a87207/">LinkedIn</a>
     </td>
   </tr>
 </table>
